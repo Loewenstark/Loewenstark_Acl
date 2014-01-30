@@ -3,6 +3,8 @@
 add support to define a website in the admin role
  for eg. catalog products, customers
 
+![image](https://raw.github.com/Loewenstark/Loewenstark_Acl/master/docs/EditRole.png)
+
 ### in Development
 
 Licence
